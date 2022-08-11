@@ -1,0 +1,204 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="ATV.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/ATV.pe/picture?width =320&altura=320" título-grupo="General",ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/atvmasnoticias/picture?width=320&height =320" group-title="Noticias",ATV+ Noticias
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/BestCableMusicCanal97/picture?width=320&height =320" group-title="Música",Mejor Cable Más Cumbia (720p) [No 24/7]
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
+#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/BestCableMusicCanal97/picture?width=320&height =320" group-title="Música",Mejor música por cable (720p) [No 24/7]
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/BestCableTvCanal3/picture?width=320&height =320" group-title="General",Best Cable Perú (720p) [No 24/7]
+https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
+#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height =320" group-title="General",Best Cable Sports Perú (720p) [No 24/7]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+  
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title ="Noticias",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+ 
+ 
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://www.lyngsat.com/logo/tv/ee/exitosa_pe_tv .png" group-title="Noticias",Exitosa TV (720p)
+https://cu.onliv3.com/livevd1/user2.m3u8
+ 
+#EXTINF:-1 tvg-id="RT" tvg-country="PE" tvg-language="Español" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAdVBMVEV3vB8AAAB8wyAdLgh7wiAYJgcyTw0hNAh5vyBYjBdqpxxEaxIsRQt0tx4ZJwYpQQtjnBoWIwZRgBVJcxM8XxA2Vg5ckRgvSgwjNwkNFANAZRESHQUFCAFdkxhsqhxHcBOAyiEQGQQLEANSgRVloBpwsR0fMAh7BvvzAAAC4klEQVR4nO3be1MaMRSG8ZM0aoSuIOCC9xv6/T9iZzq2xRaSdxTqyc7z+z/LPgMH9oYZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPxnKe5dSvmwL/CPYuDi7NuerS7ub7v4KzJP9r39LYqFx+Eglv1bYzo/zAu88xWFIVz26ecLnB3qBTZ8TWEIky4PvDCEaRp6YejT0AvDbRzuN82bl+VJmbSVp1VxG3sonN2NNkxnS7nwvPZrLW1l9fDxX3yt8DTld2I3VhPvU+n1zaSNnBQjitTC/PfCOLoUE7tGCy134nfIVflN9Fto+UUrLH7TuS601GuF/bbFTRRa1L7qF8WPqevCfCotfizunutCcffKg+i7MF5Lq0elQfRdKK5eU+i3ME4GXygtDnfNFuY7rbDdX/w0lxafNfx7eCMtLh96ey6MV9LaMG31U6oeeD8VAx0XxlstMMzbPD/M6V4MrJweeinsY9oUu2f1GkaYtXGd5ni8afGq5oWwqgR6Kfy4rvw9035h8ZB0CIXr2me08cLr4iH3AAoXJgQ2XDhZa3vVauF4FJU30E/hyffftGv5c3mXnBT2f+5kidfyyycU/go3jkuTdhm4dsvJcaFF7fbopP5T6LXQOmmJOooeC7N4ZqiNosdCixdaojSKLgvNtLPDibJfPgvzVFoljaLPQovioxjCKDottCw+plAfRbeFI62wPopeC9Ur+vVRdFtoSXtMoTqKfgvVG0/tPhNlaaYVVkbRcaF6B7gyip4LTX3sq9273OqpYnEUXRdaFK/ylEbRd6F12l3g0ig6L1QPwQuj6LzQ4kIrvNk5it4LzbRH23aPovvCvNYKd46i+0KL6u3uHQeo/gv1fzZtX95AoXwIvv0KqrT09ROFi+ujusfiw+hppmzj6OjyedtWHpU/iS7Fy8tbd0/6o235HC9L29ixFWnlJwIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4KN+AMXFQHUJf7tmAAAAAElFTkSuQmCC" group-title="General", RT
+
+
+
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="Español" tvg-logo="" group-title="General",
+
+ 
+#EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/justiciatv/picture?width=320&height =320" group-title="Undefined",JusticiaTV [No 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwsURxTXqGqijgu98ndod3A/live
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="General",Canal K-Pop
+http://177.53.152.186:8000/play/a00j/index.m3u8
+ 
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=320&height =320" group-title="Música",Karibeña (720p) [No 24/7]
+https://cu.onliv3.com/livevd/user1.m3u8
+ 
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width =320&altura=320" group-title="General",Latina
+https://livev2-latina-mdstrm.secure.footprint.net/live-stream-dai/6d4e3528451843a5984975e785b9432a/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5ce7109c7398b977dc0744cd/c053352c-17dd-4601-b7ec-3fd32389faaf/2.m3u8?
+
+#EXTINF:-1 tvg-id="Panamericana" tvg-country="PE" tvg-language="Español" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CWpa9w -8ROh8_Gag6ZKKcZ01yvC7ISf2ww&usqp=CAU" group-title="", Panamericana
+https://stream-02.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFvQQbYifm8hZaH3jZE4HAYltOq4bafOq2TFL09NPKhg3)/dm/3/x774s7s/s/live-2.m3u8
+
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="ES;HISPAM" tvg-language="Español" tvg-logo="https://i.imgur.com/auEJJvP.png" grupo -title="Animación", Locomotion TV (480p) [No 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+ 
+#EXTINF:-1 tvg-id="MasterTVTarapoto.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/169404973238869/picture?width=320&height =320" group-title="General",Master TV (Tarapoto) (480p) [No 24/7]
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/MegaTV.Pe/picture?width =320&height=320" group-title="General",Mega TV (Jaén) (720p) [No 24/7]
+https://tv.portalexpress.es:3399/hybrid/play.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title ="General",Panamericana TV (720p) [No 24/7]
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFsxOo9xp8Af-6I5CPOOE7QJ3DwHJxYKYDudDGKlqWYDX)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/radiochalacafm/picture?width=320&height =320" group-title="Música",Radio Chalaca (720p) [No 24/7]
+https://megastreamm.com:3611/stream/play.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-country="CL;PE" tvg-language="Español" tvg-logo="https://i.imgur.com/i0rZsgG.png" grupo -title="Música",Retro Plus 2 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-country="CL;PE" tvg-language="Español" tvg-logo="https://i.imgur.com/i0rZsgG.png" grupo -title="Películas",Retro Plus 3 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="RPP.pe" tvg-country="PE" tvg-language="Español" tvg-logo="" group-title="Noticias",RPP (480p) [No 24/ 7]
+http://38.131.11.9:1080/play/a0d8
+#EXTINF:-1 tvg-id="RSelvaTV.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12 /favicon.png" group-title="Noticias",RSelvaTV (Tarapoto) (720p) [No 24/7]
+https://live.obslivestream.com/selvatvmux/index.m3u8
+ 
+#EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://graph.facebook.com/Seo.Tv.sat/picture ?width=300&height=300" group-title="Series",SEO TV Novelas (540p) [No 24/7]
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+ 
+#EXTINF:-1 tvg-id="TecSatelCineTVArequipa.pe" tvg-country="PE" tvg-language="Español" tvg-logo="" group-title="Películas",TecSatel Cine TV (Arequipa) (720p ) [No 24/7]
+https://servilive.com:3176/live/cineclublive.m3u8
+ 
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/televisiontarapoto/picture?width=320&height =320" group-title="General",Televisión Tarapoto (720p) [No 24/7]
+https://videoserver.tmcreativos.com:19360/televisiontpp/televisiontpp.m3u8
+ 
+#EXTINF:-1 tvg-id="TopFMTVAtalaya.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/radiotopf/picture?width=320&height =320" group-title="General",Top FM TV (Atalaya) (240p) [No 24/7]
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-id="TopLatino.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=320&height =320" group-title="Música",Top Latino TV (404p) [No 24/7]
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TPTO.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/TPTOCHANNEL/picture?width=320&height =320" group-title=General",TPTO TV (Tarapoto) (720p) [No 24/7]
+https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://tvcosmos.pe/incluye/iso-cosmos.png" grupo -title="General",TV Cosmos (720p) [No 24/7]
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/ bcrXYkOAjdA/s900-ck-no-mo-rj-c0xffffff/photo.jpg" group-title="Noticias",TV Noticias 7.3 (768p)
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/Noticias.TvPalmeras/picture?width =320&height=320" group-title="General",TV Palmeras (480p) [No 24/7]
+https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes /stability/images/logo_TVPE_PLAY.png" group-title="General",TV Perú (450p) [No 24/7]
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-country="HISPAM" tvg-language="Español" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes /stability/images/logo_TVPE_PLAY.png" group-title="General",TV Perú Internacional (460p) [No 24/7]
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes /stability/images/logo_TVPE_NOTICIAS_PLAY.png" group-title="Noticias",TV Perú Noticias (768p) [No 24/7]
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/HenryAyalaProductions/picture?width=320&height =320" group-title="Música",TV Peruanísima (720p) [No 24/7]
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/viatelevisionperu/picture?width=320&height =320" group-title="General",Vía Televisión (Tarapoto) [No 24/7]
+https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="VisionNoticiasPeruVNP.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/vnptv.pe/picture?width =320&height=320" group-title="Noticias",Visión Noticias Perú (VNP) (720p) [No 24/7]
+https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="Español" tvg-logo="0" group-title="",
+
+ 
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-country="PE" tvg-language="Español" tvg-logo="https://graph.facebook.com/willaxtv/picture?width=320&height =320" group-title="General",Willax (480p) [No 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+ 
+ 
+
+ 
+#EXTINF:-1 group-title="peliculas" tvg-logo="", Toothfairy 3
+http://regioplay.xyz/php/SR_REGIO_224022_/toothfairy.3.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://img.ecartelera.com/noticias/fotos/66900/66992/2.jpg", Spider Man No Way Home 2021
+http://regioplay.xyz/223022/SpiderManNoWayHome2021.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10 /scream-scream-5-2497975.jpg?itok=1QG1ZnrG", Scream 5 2022
+http://regioplay.xyz/223022/Scream5Grita.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://img.aullidos.com/imagenes/caratulas/matanza-texas-2022.jpg", Masacre en Texas 2022
+http://regioplay.xyz/php/SR_REGIO_224022_/masacreentexas2022.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://comoacaba.com/wp-content/uploads/2022/02/1pOdSYjmnX61Nh9sMyztwnPJe98.jpg", Venganza a Golpes
+http://regioplay.xyz/php/SR_REGIO_224022_/golpesdevenganza.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://adeymovies.com/wp-content/uploads/2021/05/Riverdance-The-Animated-Adventure-2021.jpg", Riverdance
+http://regioplay.xyz/php/SR_REGIO_224022_/riverdance.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/2022/02/KIMI-poster.jpg?fit =696%2C1031&ssl=1", Kimi
+http://regioplay.xyz/php/SR_REGIO_224022_/kimi.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.ecartelera.com/carteles/1400/1460/003.jpg", Volver al futuro 1
+http://regioplay.xyz/php/SR_REGIO_224022_/volver.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/51URcEemjTL._AC_.jpg", Volver al futuro 2
+http://regioplay.xyz/php/SR_REGIO_224022_/volver2.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al futuro 3
+http://regioplay.xyz/php/SR_REGIO_224022_/volver3.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/91/f7/f1/91f7f1bfc1232cb4b192c2a45a3c8015.jpg", Sangre por Sangre
+http://regioplay.xyz/php/SR_REGIO_224022_/sangrexsangre.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fe0hiusviaml5nj_mtu1.jpg", Matrix Resurecciones
+http://regioplay.xyz/php/SR_REGIO_224022_/matrix2021.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinembrollos.files.wordpress.com/2021/06/hotel_transylvania_transformania.jpg", Hotel Transylvania Transformania
+http://regioplay.xyz/php/SR_REGIO_224022_/hoteltransylvaniatransformania.php?f=.mp4
+ 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/marvel/images/9/9a/Eternals_%28film%29_poster_002.png/revision/latest?cb =20210819165934&ruta-prefijo=es", Eternos
+http://regioplay.xyz/223022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado
+http://regioplay.xyz/223022/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Sing_2_A_Ven_y_canta_de_nuevo-222346064-large.jpg", Canta 2
+http://regioplay.xyz/223022/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+ 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnicería liberado
+http://regioplay.xyz/223022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg", Por fin solo en casa
+http://regioplay.xyz/223022/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alerta-roja-ftogramas-1634823584.jpg", alerta roja
+http://regioplay.xyz/223022/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/04 /poster-shang-chi-leyenda-diez-anillos-2303799.jpg?itok=bA7yKza5", Shang Chi La Leyenda de los 10 anillos
+http://regioplay.xyz/223022/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.elseptimoarte.net/carteles/a_un_paso_de_mi_89914.jpg", Un paso de mi
+http://regioplay.xyz/223022/A.un.paso.de.m%C3%AD.2021.1080p-lat-SRREGIO.NET.mkv
+ 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://lh3.googleusercontent.com/proxy/n71yzMVi0V9grBF35VLn-klQSVT2szaY0GuiyQrnwzgcQkCnfugRP1eTpyO8-MmGEkKvIY5itNEZroG2huaD5WuBsSv1Ui7HdymIco9uCw", Polaroid
+http://regioplay.xyz/223022/Polaroid.2019.1080P.Dual.Lat.SRREGIO.NET.mkv
+ 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3MDQ2NTE1NF5BMl5BanBnXkFtZTgwMTk5NzE5NzM@._V1_FMjpg_UX1000_.jpg", Isabelle 2018
+http://regioplay.xyz/223022/Isabelle.2018.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/01 /halloween-kills-2209579.jpg?itok=bskTW8To", Halloween Kills 2021
+http://regioplay.xyz/223022/Halloween.Kills.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/fguy1.jpg?resize=770%2C1100&ssl =1", chico libre
+http://regioplay.xyz/223022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/calle-terror.jpg?resize=800 %2C1187&ssl=1", La calle del terror P1
+http://regioplay.xyz/223022/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl =1", No respira 2
+http://regioplay.xyz/223022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/You_re_Not_Alone-709818429-mmed.jpg", No estas solo
+http://regioplay.xyz/223022/You%27re.not.alone..2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9
+http://regioplay.xyz/223022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+ 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://tupersonajefavorito.com/wp-content/uploads/2018/05/Piratas-del-Caribe-2.jpg?ezimgfmt=rs:640x511 /rscb1/ng:webp/ngcb1", Piratas del Caribe 2
+ 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/the_forever_purge-594164206-large.jpg", La Purga Infinita
+ 
+ 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/yakuza_princess-302212028-mmed.jpg", Príncipes YAKUZA
+ 
+#EXTINF:-1 group-title="Superman&Lois" tvg-logo="https://img.betaseries.com/MSY_zPsuxBrZU2sbjSrPrLnHZV8=/600x900/smart/https%3A%2F%2Fpictures.betaseries.com%2Ffonds%2Fposter% 2F78750dc02cffc63aa7eddafc4f0e6b67.jpg", Superman y Lois Cap-1
+https://server24.pelisloadtop.com/server24/f51e62b230ee24045636670323e063fa/EP.1.0.v0.1635226405.1080.m3u8
+ 
+#EXTINF:-1 group-title="ChukyLaSerie" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg", Gorra Chuky -1
+ 
+ 
+#EXTINF:-1 group-title="HALO" tvg-logo="https://legalpelis.com/wp-content/uploads/2022/03/halo-la-serie-2022.jpg", HALO CAP 7
+ 
+ 
+#EXTINF:-1 group-title="peliculas" tvg-logo="",
+
+#EXTINF:-1 grupo-título="" tvg-logo="",
